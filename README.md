@@ -34,10 +34,10 @@ Built with:
    git clone https://github.com/Bharath-Anr/birthday-song-generator.git
    cd birthday-song-generator/backend
 
-## Demo- Birthday Song Generator 🥳
+## 🎉 Demo – Birthday Song Generator
 
-### 🧾 Input Form
-![Input Form](./screenshots/inputs.png)
+### 🧾 User Input Form
+![Input Form](./backend/screenshots/inputs.jpeg)
 
-### 🎵 Song Output
-![Song Output](./screenshots/output.png)
+### 🎵 Generated Birthday Song Output
+![Song Output](./backend/screenshots/output.jpeg)
