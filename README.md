@@ -33,3 +33,11 @@ Built with:
    ```bash
    git clone https://github.com/Bharath-Anr/birthday-song-generator.git
    cd birthday-song-generator/backend
+
+## Demo- Birthday Song Generator 🥳
+
+### 🧾 Input Form
+![Input Form](./screenshots/inputs.png)
+
+### 🎵 Song Output
+![Song Output](./screenshots/output.png)
