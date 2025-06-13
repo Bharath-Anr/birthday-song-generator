@@ -4,7 +4,7 @@ import requests
 response = requests.post(
   "https://api.sarvam.ai/v1/chat/completions",
   headers={
-    "api-subscription-key": "sk_zx28olbd_glswkKZVr78wLKimu0IrpRZN"
+    "api-subscription-key": 
   },
   json={
     "messages": [
